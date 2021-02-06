@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@500&family=Roboto+Slab&display=swap');
+
+body{
+  margin: 0;
+  padding: 0;
+  background: url(bg.jpg) no-repeat center center fixed;;
+  background-size: cover;
+
+}
+.a1
+{
+padding: 0;
+margin: 0;
+}
+.a1 .nav{
+  padding: 0;
+  margin: 0;
+  color: #ffffff;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+.a1 .nav img
+{
+  float: left;
+}
+.a1 .nav .c1
+{
+margin-left: 35%;
+padding-top: 15px;
+}
+.a1 .nav .c1 a
+{
+  padding-left: 20px;
+  font-family: 'Bodoni Moda', serif;
+font-family: 'Roboto Slab', serif;
+}
+.a1 .nav .c2
+{
+  padding: 0;
+  margin: 0;
+  margin-top: -12px;
+  float: right;
+
+  border: 1px solid #ffffff;
+}
+.a1 .nav .c2 img{
+  width: 16px;
+  height: 16px;
+  padding: 3px;
+
+}
+.a1 .b2
+{
+width: 40%;
+height: 50%;
+color: #ffffff;
+margin-top: 13%;
+margin-left: 5%;
+}
+.a1 .b2 img
+{
+width: 200px;
+}
+.a1 .b2 .c2
+{
+  color:#696969;
+}
+.a1 .b2 .c2 a
+{
+  background: #D81F26;
+  padding: 1px;
+  color: #ffffff;
+}
+.a1 .b2 .c4 button
+{
+  width:84px;
+  height: 33px;
+  color: #ffffff;
+  font-weight: bold;
+  letter-spacing:0.03em;
+  border-radius: 2px;
+
+}
+.a1 .b2 .c4 .d1
+{
+  background: #D81F26;
+}
+.a1 .b2 .c4 .d2
+{
+  width: 90px;
+  background: #000000;
+}
+.a1 .b3  {
+  margin-top: 70px;
+  color: #ffffff;
+  margin-left: 5%;
+  position: relative;
+
+}
+.a1 .b3 img{
+  width:50px;
+  height: 50px;
+}
+.a1 .b3 span{
+position: absolute;
+padding-left: 20px;
+padding-top: 15px;
+font-family: 'Bodoni Moda', serif;
+font-family: 'Roboto Slab', serif;
+font-size: 20px;
+}
